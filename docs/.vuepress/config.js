@@ -10,7 +10,9 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Guide', link: '/guide/' },
-            { text: 'External', link: 'https://google.com' }
+            { text: 'Projects', link: '/projects/' },
+            { text: 'Wordpress', link: '/wordpress/' },
+            { text: 'Woocommerce', link: '/woocommerce/' }
         ],
         smoothScroll: true,
         sidebar: [
